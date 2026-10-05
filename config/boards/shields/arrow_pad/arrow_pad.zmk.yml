@@ -1,0 +1,7 @@
+file_format: "1"
+id: arrow_pad
+name: Arrow Pad
+type: shield
+url: https://zmk.dev/docs/user-setup
+features:
+  - keys
