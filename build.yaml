@@ -1,6 +1,6 @@
 ---
 include:
-  - board: xiao_ble//zmk
+  - board: seeeduino_xiao_ble
     shield: arrow_pad
-  - board: xiao_ble//zmk
+  - board: seeeduino_xiao_ble
     shield: settings_reset
